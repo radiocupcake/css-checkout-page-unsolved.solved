@@ -8,14 +8,14 @@ html,
 body {
   height: 100%;
   width: 100%;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: white;
 }
 
 /* 🔴 CSS Property name Error here 👇 */
 body {
-  background-color: #030a1e;
+  background-colo: #030a1e;
 }
 
 .content {
